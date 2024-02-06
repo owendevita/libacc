@@ -6,5 +6,9 @@ edition = "2021"
 [dependencies]
 aes-gcm-siv = "0.11.1"
 rand = "0.8.5"
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
